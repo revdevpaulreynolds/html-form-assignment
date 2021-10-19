@@ -1,0 +1,15 @@
+body {
+}
+
+input, label {
+    margin: 0 0 10px 0;
+    display:flex;
+}
+
+textarea, input {
+    width: 100%;
+}
+
+button {
+    margin: 10px 0;
+}
